@@ -13,6 +13,6 @@ There are 2 functions for printing the sudoko board, one is for testing and the 
     This is a function that checks if a cell is valid for the input in consideration, according to the sudoko game rules.
     
 **4. solve -** 
-    This is the main function, it solves the sudoko board.
+    This is the main function, it solves the sudoko board, recursively.
     
 Enjoy 😏
